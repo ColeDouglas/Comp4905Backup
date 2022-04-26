@@ -1,0 +1,14 @@
+Package: OrdinalViewGraph
+Version: 0.3.0
+Date: 2022-04-06
+Type: Package
+Title: A Way to Visualize Ordinal View Data
+Author: Cole Douglas[aut],Robert Biddle[cre]
+Maintainer: ColeDouglas <ColeDouglas@cmail.carleton.ca>
+Description: 
+    Input two columns of data.     
+    Creates a Graph intuitively showing that data.
+    Outputs the test statistics and the label of the dominant sample
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
